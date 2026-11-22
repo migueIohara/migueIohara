@@ -8,3 +8,7 @@
   [新book](https://miguelohara.atabook.org/)
   
 <p align="center">
+
+<p align="center">
+$\color{#cec9c9}\text{ㅤhiㅤ}$
+<p align="center">

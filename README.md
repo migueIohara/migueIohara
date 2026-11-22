@@ -10,5 +10,5 @@
 <p align="center">
 
 <p align="center">
-$\color{#cec9c9}\text{ㅤhiㅤ}$
+$\color{#ece8e8}\text{ㅤhiㅤ}$
 <p align="center">

@@ -5,6 +5,6 @@
 
 <p align="center"
   
-  [新book](https://miguelohara.atabook.org/)ㅤ[main](https://github.com/2099s)
+  [新book](https://miguelohara.atabook.org/)
   
 <p align="center">

@@ -10,5 +10,5 @@
 <p align="center">
 
 <p align="center">
-$\color{#f4f2f2}\text{ㅤhiㅤ}$
+$\color{#f4f2f2}\text{ㅤIf there's a freak person on my following list don't be shy about telling meㅤ}$
 <p align="center">
